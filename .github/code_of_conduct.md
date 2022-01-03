@@ -2,11 +2,11 @@
 
 ## Our Pledge
 
-We will never be #woke lib-tard authoritarian trash who spout off critical race and gender theory nonsense. Only 3% of open-source contributions are from women. Our pledge is to not burn the people who do contribute to try to make girls who don't contribute like us.
+We will never tread on you or be #woke lib-tard authoritarian trash who spout off critical race and gender theory nonsense. Only 3% of open-source contributions are from women. Our pledge is to not burn the people who do contribute to try to make girls who don't contribute like us.
 
 ## Our Standards
 
-You can take your Code of Conduct and shove it up your ass!
+You can take your Code of Conduct and shove it up your ass! Don't tread on me.
 
 ## Our Responsibilities
 
@@ -18,7 +18,7 @@ The scope is creep. You either respect the US Constitution or GTFO!
 
 #### Enforcement
 
-I'll ban you just because I want to, espechially if you're a goodie-goodie or #woke lib-tard spouting off some critical race or geneder theory horse shit.
+I'll ban you just because I want to, espechially if you're a goodie-goodie or #woke lib-tard spouting off some critical race or geneder theory horse shit. If you tread on us we will tread on you.
 
 #### Attribution
 
