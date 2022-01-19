@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We will never tread on you or be #woke lib-tard authoritarian trash who spout off critical race and gender theory nonsense. Only 3% of open-source contributions are from women. Our pledge is to not burn the people who do contribute to try to make girls who don't contribute like us.
+We will never tread on you or be #woke lib-tard authoritarian trash who spout off critical race and gender theory nonsense. Only 3% of open-source contributions are from women. Our pledge is to not burn the people who do contribute to try to make girls who don't contribute like us. Diversity, Equity, and Inclusion is code for fairness and you get an equal share, which means social ownership or socialism. We pledge not to be authoritarian drones who attack you drunk on the Koolaid.
 
 ## Our Standards
 
