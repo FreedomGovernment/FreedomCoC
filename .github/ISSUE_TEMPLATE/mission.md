@@ -3,7 +3,7 @@ name: Mission
 about: A mission with a problem-solution analysis
 title: ''
 labels: ''
-assignees: ''
+assignees: 'CookingWithCale'
 
 ---
 
@@ -31,8 +31,8 @@ Mission
 
 #### Sessions
 
-* CookingWithCale/CookingWithCale#1
+* CookingWithCale/CookingWithCale#2
 
 ## License
 
-Copyright 2022 © [Kabuki Starship](https://kabukistarship.com); all rights reserved.
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
