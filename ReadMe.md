@@ -2,4 +2,4 @@ The Freedom Code of Conduct is the Code of conduct for a free and open internet.
 
 ## License
 
-Copyright 2022 © [Freedom Government](https://kabukistarship.com).
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.

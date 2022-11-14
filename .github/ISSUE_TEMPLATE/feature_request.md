@@ -1,38 +1,41 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Mission
+about: A mission with a problem-solution analysis
 title: ''
 labels: ''
-assignees: ''
-
+assignees: 'CookingWithCale'
 ---
 
-### A
+# 
 
-#### Problem
+## Problem
 
-The problem this feature solves is...
+The problem I am addressing on this mission is...
 
-#### Solution
+## Solution
 
-The solution is to implement a feature that...
+The solution that I'm addressing on this mission is...
 
-##### File Affected
+### File Affected
 
-1. `*.*`
+1. `?`
 
-#### Hierarchy
+## Hierarchy
 
 * #1
 
-#### Tags
+## Tags
 
-RequestFeature
+Mission
 
-#### Sessions
+## A
 
-* CookingWithCale/CookingWithCale#1
+
+
+### Sessions
+
+* CookingWithCale/CookingWithCale#2
 
 ## License
 
-Copyright 2022 © [Kabuki Starship](https://kabukistarship.com); all rights reserved.
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
