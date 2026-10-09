@@ -1,38 +1,18 @@
 ---
 name: Mission
-about: A mission with a problem-solution analysis
+about: A mission with a problem-solution analysis.
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
-
+assignees: ''
 ---
+## Problem
 
-### A
+The problem is 
 
-#### Problem
+## Solution
 
-The problem I am addressing on this mission is...
+The solution is 
 
-#### Solution
+### File Affected
 
-The solution that I'm addressing on this mission is...
-
-##### File Affected
-
-1. `*.*`
-
-#### Hierarchy
-
-* #1
-
-#### Tags
-
-Mission
-
-#### Sessions
-
-* CookingWithCale/CookingWithCale#2
-
-## License
-
-Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
+1. `?`

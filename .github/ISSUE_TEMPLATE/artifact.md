@@ -3,17 +3,12 @@ name: Artifact
 about: A report of an artifact that is left over from a Change.
 title: 'Artifact'
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
+## Description
 
-# Artifact Description
-
-
+The artifact that is left over from a change is...
 
 ## Files Affected
 
-1. `*.*
-
-## License
-
-Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
+1. `?`

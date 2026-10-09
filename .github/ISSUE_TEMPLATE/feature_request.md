@@ -1,41 +1,14 @@
 ---
-name: Mission
-about: A mission with a problem-solution analysis
+name: Feature request
+about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: ''
 ---
-
-# 
-
 ## Problem
 
-The problem I am addressing on this mission is...
+The problem this feature solves is...
 
 ## Solution
 
-The solution that I'm addressing on this mission is...
-
-### File Affected
-
-1. `?`
-
-## Hierarchy
-
-* #1
-
-## Tags
-
-Mission
-
-## A
-
-
-
-### Sessions
-
-* CookingWithCale/CookingWithCale#2
-
-## License
-
-Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
+The solution is to implement a feature that...

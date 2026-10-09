@@ -4,17 +4,12 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-
 ---
-
-
-### A
-
-#### Problem
+## Problem
 
 The bug I am reporting is...
 
-##### Reproduction
+### Reproduction
 
 Steps to reproduce the behavior:
 
@@ -23,43 +18,27 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-##### ExpectedBehavior
+### ExpectedBehavior
 
 A clear and concise description of what you expected to happen.
 
-##### Screenshots
+### Screenshots
 
 If applicable, add screenshots to help explain your problem.
 
-##### Platform
+### Platform
 
- - OS: [e.g. Windows 10 2004]
- - Version [e.g. 0.6.1]
+- OS: [e.g. Windows 10 2004]
+- Version [e.g. 0.6.1]
 
-##### Context
+### Context
 
 Add any other context about the problem here.
 
-#### Solution
+## Solution
 
 The solution to the bug is...
 
-##### File Affected
+### File Affected
 
 1. `*.*`
-
-#### Hierarchy
-
-* #1
-
-#### Tags
-
-RequestFeature
-
-#### Sessions
-
-* CookingWithCale/CookingWithCale#2
-
-## License
-
-Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
