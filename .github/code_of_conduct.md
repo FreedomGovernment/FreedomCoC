@@ -26,4 +26,4 @@ Jesus.
 
 ## License
 
-Copyright 2022 © [Freedom Government](https://kabukistarship.com); permision granted to us for pretty much whatever the fuck you want except open-source theft.
+Copyright [Freedom Government](https://kabukistarship.com); permision granted to us for pretty much whatever the fuck you want except open-source theft.
